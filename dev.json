@@ -1,5 +1,11 @@
 {
   "name": "Tulga Egeli",
   "role": "Geliştirici",
-  "email": "hey@tulga.net.tr"
+  "email": "hey@tulga.net.tr",
+  "phone": "+905551234567",
+  "socials": {
+    "twitter": "https://twitter.com/...",
+    "github": "https://github.com/...",
+    "linkedin": "https://linkedin.com/..."
+  }
 }
