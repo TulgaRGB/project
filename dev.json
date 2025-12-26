@@ -1,10 +1,20 @@
 {
-  "name": "Tulga Egeli",
-  "role": "Geliştirici",
-  "email": "hey@tulga.net.tr",
-  "phone": "+905511636940",
-  "socials": {
-    "twitter": "https://twitter.com/bentulga",
-    "linkedin": "https://linkedin.com/bentulga"
-  }
+    "name": "Tulga Egeli",
+    "role": "Geliştirici",
+    "email": "hey@tulga.net.tr",
+    "phone": "+90 551 163 69 40",
+    "bio": "Merhaba! Ben Tulga. Bu radyo projesinin geliştiricisiyim. Müzik ve kodlama tutkumla İTÜ Radyosu'nu dijital dünyaya taşıdım.",
+    "avatar_image": "",
+    "avatar_icon": "terminal",
+    "theme": {
+        "primary": "#0060ad",
+        "secondary": "#9b9a2d",
+        "background": "#ffffff",
+        "text": "#0f172a"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/bentulga",
+        "linkedin": "https://linkedin.com/bentulga",
+        "globe": "https://tulga.net.tr"
+    }
 }
